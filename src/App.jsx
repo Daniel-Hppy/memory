@@ -2,8 +2,8 @@ import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import { Card } from './components/Card'
-import { fetchCharacter } from './components/fetchPokemon.js'
+import { Card } from './components/Card.jsx'
+import { fetchCharacter } from './components/fetchPokemon.jsx'
 
 
 
